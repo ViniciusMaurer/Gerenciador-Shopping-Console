@@ -24,3 +24,7 @@ O software desenvolvido possui um menu com as seguintes funcionalidades:
 ## Tecnologias Utilizadas
 
 - Java
+
+## Estrutura do Projeto (BlueJ)
+
+![image](https://github.com/user-attachments/assets/edc93c9c-66dc-4c29-af58-39dd7b4c81ed)
